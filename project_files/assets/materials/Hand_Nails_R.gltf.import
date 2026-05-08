@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dqb4jqobiy55b"
-path="res://.godot/imported/Hand_Nails_R.gltf-dd8581458cc112118d1f36261ab9911b.scn"
+path="res://.godot/imported/Hand_Nails_R.gltf-887f49419803901a1533dd1becce31dc.scn"
 
 [deps]
 
-source_file="res://assets/models/materials/Hand_Nails_R.gltf"
-dest_files=["res://.godot/imported/Hand_Nails_R.gltf-dd8581458cc112118d1f36261ab9911b.scn"]
+source_file="res://assets/materials/Hand_Nails_R.gltf"
+dest_files=["res://.godot/imported/Hand_Nails_R.gltf-887f49419803901a1533dd1becce31dc.scn"]
 
 [params]
 
